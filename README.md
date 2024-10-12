@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasninemamud&label=Profile%20views&color=0e75b6&style=flat" alt="hasninemamud" /> </p>
 
-- 🌱 I’m currently learning **Python,Django**
+- 🌱 I’m currently learning **Data Structure & Algorithm Using Python **
 
 - 👨‍💻 All of my projects are available at [https://hasninemamud.netlify.app/](https://hasninemamud.netlify.app/)
 
