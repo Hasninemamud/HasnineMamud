@@ -69,49 +69,16 @@ I am committed to **solving complex technical challenges** and continuously enha
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏛️ **AuctionCraft** - Online Auction Platform
-*2025 | Django REST Framework, WebSockets, PostgreSQL*
-
-A comprehensive online auction system built with modern web technologies:
-- 🏗️ **SOLID Architecture**: Built following SOLID principles for maintainable code
-- 🔐 **Secure Authentication**: OTP-based auth with role-based access control
-- 💳 **Payment Integration**: Stripe API for secure payment processing
-- 🔔 **Real-time Updates**: WebSocket integration for live auction notifications
-- 🐳 **Containerized**: Docker implementation for seamless deployment
-
-### 💰 **Payment & File Upload System**
-*2025 | Django, Celery, Redis, PostgreSQL*
-
-A sophisticated payment-gated file management system:
-- 💳 **Payment Gateway**: Integrated aamarPay for secure transactions
-- ⚡ **Performance Boost**: 70% efficiency improvement using Celery + Redis
-- 🔒 **Secure APIs**: Token-based authentication for client-server communication
-- 📊 **Admin Dashboard**: Comprehensive monitoring for payments and uploads
-- 🛠️ **Problem Solving**: Resolved webhook handling and file permission challenges
-
-### 🤖 **RAG-Powered Financial Research Assistant**
-*February 2025 | FastAPI, FAISS, Streamlit*
-
-An intelligent document analysis system leveraging AI:
-- 📄 **Document Processing**: End-to-end PDF ingestion and text analysis
-- 🔍 **Semantic Search**: FAISS vector database for intelligent document retrieval
-- 🎯 **Natural Language Q&A**: RAG implementation for contextual responses
-- 🌐 **Interactive UI**: Streamlit interface for real-time question answering
-- 📚 **Source Citations**: Contextual summaries with proper attribution
-
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasninemamud&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasninemamud&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590&icon_color=39D353)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasninemamud&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasninemamud&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasninemamud&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasninemamud&theme=algolia&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=58A6FF&currStreakNum=58A6FF&dates=7D8590)
 
 </div>
 
