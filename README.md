@@ -16,7 +16,9 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Backend Developer** passionate about **DevOps** and building scalable systems. I specialize in creating robust RESTful APIs using Django REST Framework and optimizing database performance. During my 3-month internship at RobotTechValley, I improved system performance by **25%** through strategic query optimization.
+I am a **Backend Developer** from **Bangladesh**, specializing in designing and developing **scalable, efficient, and secure server-side applications**. My expertise lies in building robust APIs, optimizing database performance, and applying best practices in backend architecture.
+
+I am committed to **solving complex technical challenges** and continuously enhancing my skills by exploring modern frameworks, databases, and cloud technologies.
 
 🎓 **BSc in Computer Science & Engineering** - Green University of Bangladesh (2020-2024)  
 🌍 **Location**: Dhaka, Bangladesh  
