@@ -1,93 +1,156 @@
 # A.K.M Hasnine Mamud
 
-**Backend Developer | Python Enthusiast | Problem Solver**
-
 <div align="center">
-  <img src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966")" alt="Coding Animation" width="400"/>
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasninemamud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## Backend Developer & DevOps Enthusiast
 
-## About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-hasninemamud.vercel.app-blue?style=for-the-badge&logo=vercel)](https://hasninemamud.vercel.app)
+[![Email](https://img.shields.io/badge/Email-hasninemamud20@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hasninemamud20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/a.k.m-hasnine-mamud)
 
-I am a **Backend Developer** from **Bangladesh**, specializing in designing and developing **scalable, efficient, and secure server-side applications**. My expertise lies in building robust APIs, optimizing database performance, and applying best practices in backend architecture.
+![Profile Views](https://komarev.com/ghpvc/?username=hasninemamud&label=Profile%20views&color=0e75b6&style=flat)
 
-I am committed to **solving complex technical challenges** and continuously enhancing my skills by exploring modern frameworks, databases, and cloud technologies.
-
-**Core Skills:**
-
-* **Languages & Frameworks:** Python, Django, FastAPI
-* **Databases:** PostgreSQL, MySQL
-* **Other:** REST APIs, DevOps (Docker, CI/CD), Linux
-
-
-## Portfolio & Contact
-
-- 🌐 **Portfolio**: [hasninemamud.netlify.app](https://hasninemamud.netlify.app/)
-- 📧 **Email**: hasninehemel85@gmail.com
-
-## Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/a.k.m hasnine mamud" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/hasnine mahmud hemel" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/a.k.m hasnine mamud" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
-
-## Technical Skills
-
-### Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-</p>
-
-### Frameworks & Technologies
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-</p>
-
-## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hasninemamud&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasninemamud&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasninemamud&theme=default" alt="GitHub Streak" />
 </div>
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
+## 👨‍💻 About Me
+
+Results-driven **Backend Developer** passionate about **DevOps** and building scalable systems. I specialize in creating robust RESTful APIs using Django REST Framework and optimizing database performance. During my 3-month internship at RobotTechValley, I improved system performance by **25%** through strategic query optimization.
+
+🎓 **BSc in Computer Science & Engineering** - Green University of Bangladesh (2020-2024)  
+🌍 **Location**: Dhaka, Bangladesh  
+📧 **Contact**: hasninemamud20@gmail.com | +8801636441892
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Frontend Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 💼 Professional Experience
+
+### **Software Engineer Intern** | RobotTechValley
+*April 2024 - July 2024 | Dhaka, Bangladesh*
+
+- 🚀 **Optimized database performance** by 25% through efficient PostgreSQL schema design and query optimization
+- 🔧 **Developed 20+ RESTful API endpoints** using Django REST Framework with comprehensive Swagger documentation
+- 🔐 **Implemented JWT authentication** for secure API access and session management
+- 📝 **Created detailed API documentation** ensuring clear, testable interface specifications
+
+**Tech Stack**: PostgreSQL, Django REST Framework, Python, JWT, Git, RESTful APIs, Swagger UI
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ **AuctionCraft** - Online Auction Platform
+*2025 | Django REST Framework, WebSockets, PostgreSQL*
+
+A comprehensive online auction system built with modern web technologies:
+- 🏗️ **SOLID Architecture**: Built following SOLID principles for maintainable code
+- 🔐 **Secure Authentication**: OTP-based auth with role-based access control
+- 💳 **Payment Integration**: Stripe API for secure payment processing
+- 🔔 **Real-time Updates**: WebSocket integration for live auction notifications
+- 🐳 **Containerized**: Docker implementation for seamless deployment
+
+### 💰 **Payment & File Upload System**
+*2025 | Django, Celery, Redis, PostgreSQL*
+
+A sophisticated payment-gated file management system:
+- 💳 **Payment Gateway**: Integrated aamarPay for secure transactions
+- ⚡ **Performance Boost**: 70% efficiency improvement using Celery + Redis
+- 🔒 **Secure APIs**: Token-based authentication for client-server communication
+- 📊 **Admin Dashboard**: Comprehensive monitoring for payments and uploads
+- 🛠️ **Problem Solving**: Resolved webhook handling and file permission challenges
+
+### 🤖 **RAG-Powered Financial Research Assistant**
+*February 2025 | FastAPI, FAISS, Streamlit*
+
+An intelligent document analysis system leveraging AI:
+- 📄 **Document Processing**: End-to-end PDF ingestion and text analysis
+- 🔍 **Semantic Search**: FAISS vector database for intelligent document retrieval
+- 🎯 **Natural Language Q&A**: RAG implementation for contextual responses
+- 🌐 **Interactive UI**: Streamlit interface for real-time question answering
+- 📚 **Source Citations**: Contextual summaries with proper attribution
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasninemamud&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasninemamud&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasninemamud&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Core Competencies
+
+- **API Development**: RESTful API design, documentation, and testing
+- **Database Optimization**: Query optimization and schema design
+- **System Architecture**: Scalable backend systems and microservices
+- **DevOps Practices**: CI/CD pipelines, containerization, and deployment automation
+- **Problem Solving**: Technical debugging and performance optimization
+- **Agile Methodology**: Scrum practices and collaborative development
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Django REST Framework Advanced Features
+- Cloud Technologies (AWS/GCP)
+- Microservices Architecture
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing new opportunities, collaborating on projects, or sharing knowledge about backend development and DevOps practices.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-blue?style=for-the-badge)](https://hasninemamud.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-blue?style=for-the-badge)](https://linkedin.com/in/a.k.m-hasnine-mamud)
+[![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-red?style=for-the-badge)](mailto:hasninemamud20@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building scalable solutions, one API at a time."*
+
+</div>
