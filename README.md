@@ -74,11 +74,11 @@ I am committed to **solving complex technical challenges** and continuously enha
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasninemamud&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590&icon_color=39D353)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasninemamud&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590&icon_color=39D353)](https://github-readme-stats.vercel.app/api?username=hasninemamud&show_icons=true&theme=algolia&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590&icon_color=39D353)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasninemamud&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasninemamud&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590)](https://github-readme-stats.vercel.app/api/top-langs/?username=hasninemamud&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=7D8590)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasninemamud&theme=algolia&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=58A6FF&currStreakNum=58A6FF&dates=7D8590)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasninemamud&theme=algolia&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=58A6FF&currStreakNum=58A6FF&dates=7D8590)](https://github-readme-streak-stats.herokuapp.com/?user=hasninemamud&theme=algolia&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideNums=58A6FF&currStreakNum=58A6FF&dates=7D8590)
 
 </div>
 
