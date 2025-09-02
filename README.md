@@ -12,13 +12,16 @@
 
 ## About Me
 
-I'm a passionate backend developer from Bangladesh with a strong focus on building scalable and efficient server-side applications. I enjoy solving complex problems and continuously learning new technologies to enhance my development skills.
+I am a **Backend Developer** from **Bangladesh**, specializing in designing and developing **scalable, efficient, and secure server-side applications**. My expertise lies in building robust APIs, optimizing database performance, and applying best practices in backend architecture.
 
-## Current Focus
+I am committed to **solving complex technical challenges** and continuously enhancing my skills by exploring modern frameworks, databases, and cloud technologies.
 
-- 🔍 **Learning**: Data Structures & Algorithms (DSA) and Django REST Framework
-- 💻 **Building**: Backend solutions with Python and Django
-- 🎯 **Goal**: Mastering full-stack development with a backend specialization
+**Core Skills:**
+
+* **Languages & Frameworks:** Python, Django, FastAPI
+* **Databases:** PostgreSQL, MySQL
+* **Other:** REST APIs, DevOps (Docker, CI/CD), Linux
+
 
 ## Portfolio & Contact
 
